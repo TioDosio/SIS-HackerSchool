@@ -1,0 +1,59 @@
+
+h1 {
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    font-style: oblique
+}
+
+h3 {
+    font-size: 60px;
+    color: white;
+    background-blend-mode:exclusion;
+}
+
+h4 {
+	font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+}
+
+#123 {
+    text-align: center;
+    font-size: 232px;
+}
+
+.col-4z{
+    font-size: 25px;
+    
+}
+
+.linha{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    font-size: 25px;
+    padding: 0 4px;
+    flex-wrap: wrap;
+}
+
+.linha img{
+    flex:50%;
+    width: 100%;  
+}
+
+.linha div{
+    flex: 50%;
+    text-align: justify;
+    font-size: .5em;
+    padding: 0 4px;
+}
+
