@@ -11,7 +11,7 @@ h2 {
     text-align: left;
 }
 
-p1 {
+p {
     font-size: 20px;
     text-align: center;
     color: black;
@@ -24,20 +24,16 @@ p2 {
     justify-content: auto; 
 }
 
-.body1 {
-    align-items: left;
-}
-
 body {
     align-items: left;
-    background-image: url(#);
+    background-color: black;
     background-position: center;
     background-repeat:initial;
 }
 
 .card-body {
-    background-color: gainsboro;
-    justify-content: auto; 
+    background-color:green;
+        justify-content: auto; 
 }
 
 
